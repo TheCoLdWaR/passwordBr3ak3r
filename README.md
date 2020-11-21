@@ -5,7 +5,7 @@ It helping cracking password.
 ![Screenshot](imgpwbr3aker.png)
 
 
-Usage :Python3 passwordBr3ak3r
+Usage : Python3 passwordBr3ak3r.py
 
 
 
